@@ -1,5 +1,5 @@
 # About
-**This is not a reimplentation of the scrapped insanity mechanic, instead a reimagining.**
+**This is not a reimplementation of the scrapped insanity mechanic, instead a reimagining.**
 
 *The pit will now slowly make you lose your mind...*
 
